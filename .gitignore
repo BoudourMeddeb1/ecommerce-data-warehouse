@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
